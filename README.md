@@ -84,6 +84,4 @@ Contributions are welcome. Please open an issue to discuss proposed changes befo
 ## License
 
 This project is licensed under the **Apache License 2.0**.
-You are free to use, modify, and distribute this project with proper attribution according to the license terms.
-
 See the [LICENSE](LICENSE) file for full details.
