@@ -1,0 +1,18 @@
+
+WebSocket URL:
+wss://jarvis-1-nq2cqzwn.livekit.cloud
+
+API Keys:
+APIjk5oHuDsrA7B
+
+API Secret:
+jCo1Tt89KTv6JutdpzhBOkQHTbt1jKRZacHen1ZGweE
+
+Environment Variables:
+LIVEKIT_URL=wss://jarvis-1-nq2cqzwn.livekit.cloud
+LIVEKIT_API_KEY=APIjk5oHuDsrA7B
+LIVEKIT_API_SECRET=jCo1Tt89KTv6JutdpzhBOkQHTbt1jKRZacHen1ZGweE
+
+
+Gemini API Key:
+AIzaSyBjIKhtyIlFsBD6ZGcMt6aNvQUiYVuC8EE

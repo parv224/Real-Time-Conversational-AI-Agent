@@ -1,0 +1,36 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N801" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredNames">
+        <list>
+          <option value="sum" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="player.Player.shape" />
+          <option value="player.Player.penup" />
+          <option value="player.Player.goto" />
+          <option value="player.Player.setheading" />
+          <option value="player.Player.forward" />
+          <option value="car_manager.CarManager.all_cars" />
+          <option value="car_manager.random_chance" />
+          <option value="object.*" />
+          <option value="main.flask_bcrypt" />
+          <option value="main.kenni" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
